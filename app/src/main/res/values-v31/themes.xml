@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.App.Starting" parent="Theme.RMP_PR_23106_Oshepkov_PR16">
+        <item name="android:windowSplashScreenBackground">@drawable/background</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/logo</item>
+        <item name="android:splashScreenTheme">@style/Theme.App.Starting</item>
+    </style>
+</resources>
